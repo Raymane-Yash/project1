@@ -1,0 +1,43 @@
+.body{
+    background-color: #f2e9e4;
+    color: #22223b;
+}
+
+
+
+table{
+    border: 2px solid rgba(128, 128, 128, 0.473);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+caption{
+    border: 2px solid rgba(128, 128, 128, 0.473);
+    
+}
+
+h2{
+    color: #22223b;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    
+}
+
+p{
+    color: grey;
+    font-size: small;
+}
+
+#id{
+    width: 247px;
+    align-self: center;
+}
+.logi{
+    width: 177px;
+    background-color: rgb(255, 230, 6);
+}
+button {
+    align-items: center;
+}
+
